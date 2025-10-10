@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Fabiano eu sou um profissional da área de Dados e estou aqui para aprender e compartilhar conhecimento.</h2>
+<h2 align="left">Oi 👋! Meu nome é Fabiano. Sou um profissional da área de Dados e estou aqui para aprender e compartilhar conhecimento.</h2>
 
 ###
 
