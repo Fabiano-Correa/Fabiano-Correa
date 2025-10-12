@@ -1,4 +1,34 @@
-<h2 align="left">Oi 👋! Meu nome é Fabiano. Sou um profissional da área de Dados e estou aqui para aprender e compartilhar conhecimento.</h2>
+# 👋 Hello, I'm Fabiano Corrêa  
+
+I'm a **Data Engineer** passionate about building high-performance, intelligent data ecosystems that drive real business impact.  
+With a blend of technical depth, strategic thinking, and a focus on innovation, I specialize in:  
+
+- **Data Architecture & Automation** — designing scalable and efficient pipelines  
+- **Cloud & Distributed Systems** — leveraging tools like BigQuery, Spark, Airflow, and Docker  
+- **Database Optimization & Reliability** — MySQL, MariaDB Galera, PostgreSQL  
+- **Analytics & Visualization** — translating complex data into actionable insights  
+
+---
+
+### 🎯 **Professional Purpose**
+Transforming raw data into strategic intelligence that empowers organizations to make smarter, faster decisions.  
+I believe in the synergy between engineering excellence and business vision — bridging the gap between **data infrastructure** and **decision-making**.
+
+---
+
+### 💡 **Current Focus**
+- Building my **Data Engineering Portfolio** on GitHub  
+- Developing projects in **ETL automation, data pipelines, and cluster performance**  
+- Experimenting with **AI agents and workflow orchestration (n8n, Python, Airflow)**  
+
+---
+
+### 🌍 **About Me (PT-BR)**
+Sou **Engenheiro de Dados** com foco em soluções escaláveis, automação e inovação em nuvem.  
+Minha missão é transformar ambientes complexos em plataformas de dados eficientes, seguras e orientadas a valor.  
+Aqui você encontrará projetos de engenharia de dados, scripts de automação, clusters de banco de dados e experimentos com IA aplicada.
+
+---
 
 ###
 
